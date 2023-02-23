@@ -1,6 +1,6 @@
 ## Olaá! Eu sou o Victor Lima 👋
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Atualmente venho desenvolvendo Landing Page e Social Media...
 - 🌱 Estudando React
 - 📫 Contate-me pelo E-mail: victorsantosob95@gmail.com
 
