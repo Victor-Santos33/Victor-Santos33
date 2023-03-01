@@ -5,7 +5,7 @@
 - 📫 Contate-me pelo E-mail: victorsantosob95@gmail.com
 
 <div>
-  <a href="https://www.linkedin.com/in/victor-lima-a058741a3/">
+  <a href="https://www.linkedin.com/in/victor-Santos33">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victor-Santos33&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Santos33&layout=compact&langs_count=7&theme=dracula"/>
 </div>
