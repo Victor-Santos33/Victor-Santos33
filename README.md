@@ -1,7 +1,7 @@
 ## Olaá! Eu sou o Victor Lima 👋
 
-- 🔭 Atualmente venho desenvolvendo Landing Page e Social Media...
-- 🌱 Estudando React
+- 🔭 Atualmente venho desenvolvendo landing pages e sites institucionais...
+- 🌱 Fazendo <strong>pós graduação</strong> em <strong>Desenvolvimento Full Stack</strong>
 - 📫 Contate-me pelo E-mail: victorsantosob95@gmail.com
   
 <div style="display: inline_block"><br>
